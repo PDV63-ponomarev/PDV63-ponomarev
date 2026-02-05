@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Всем привет, я Дмитрий</h1>
+<h3 align="center"> June QA инженер</h3>
 
-<!--
-**PDV63-ponomarev/PDV63-ponomarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Я пишу на **Python**
+- Изучаю **Искуственный интелект и 3D**
+- Мое резюме на [**HH**](https://togliatti.hh.ru/resume/78d68355ff0f8de5e00039ed1f5a7753656951)
+- Со мной можно связаться через телеграмм **@PDV63**
 
-Here are some ideas to get you started:
+Пишу на:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" heigh="40">
+</p>
+
+Работаю в:
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" heigh="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" heigh="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" heigh="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" heigh="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" heigh="40">
+</p>
+
+### Статистика моего профиля
+<p align="left">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PDV63-ponomarev&theme=solarized_dark)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PDV63-ponomarev&theme=solarized_dark" width="350" heigh="300">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PDV63-ponomarev&theme=solarized_dark&utcOffset=8" width="350" heigh="300">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PDV63-ponomarev&theme=solarized_dark&utcOffset=8)
+</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PDV63-ponomarev&theme=solarized_dark)
+
+
