@@ -1,5 +1,5 @@
 <h1 align="center">Дмитрий</h1>
-<h3 align="center"> June QA инженер</h3>
+<h3 align="center"> QA automation engineer</h3>
 
 - Я пишу на **Python**
 - Изучаю **Искуственный интелект и 3D**
