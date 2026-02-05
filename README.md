@@ -1,4 +1,4 @@
-<h1 align="center">Всем привет, я Дмитрий</h1>
+<h1 align="center">Дмитрий</h1>
 <h3 align="center"> June QA инженер</h3>
 
 - Я пишу на **Python**
@@ -23,16 +23,10 @@
 </p>
 
 ### Статистика моего профиля
-<p align="left">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PDV63-ponomarev&theme=solarized_dark)
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PDV63-ponomarev&theme=solarized_dark" width="350" heigh="300">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PDV63-ponomarev&theme=solarized_dark&utcOffset=8" width="350" heigh="300">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PDV63-ponomarev&theme=solarized_dark&utcOffset=8)
+<p align="centre">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PDV63-ponomarev&theme=solarized_dark" width="300" heigh="300">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PDV63-ponomarev&theme=solarized_dark&utcOffset=8" width="300" heigh="300">
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PDV63-ponomarev&theme=solarized_dark)
-
-
