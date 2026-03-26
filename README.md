@@ -15,7 +15,7 @@ Python
 </p> 
  
 ### Мои инструменты:  
-Pycharm, VSCode, Jenkins, Selenium, Playwright, Git 
+Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure 
 <p align="left">
 <img src="img/pycharm-original.svg" width="40" heigh="40">
 <img src="img/vscode-original.svg" width="40" heigh="40">
@@ -23,6 +23,7 @@ Pycharm, VSCode, Jenkins, Selenium, Playwright, Git
 <img src="img/selenium-original.svg" width="40" heigh="40">
 <img src="img/playwright-original.svg" width="40" heigh="40">
 <img src="img/git-original.svg" width="40" heigh="40">
+<img src="img/allure.png" width="40" heigh="40">
 </p>
 
 ---
