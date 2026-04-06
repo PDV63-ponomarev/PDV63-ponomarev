@@ -31,10 +31,10 @@ Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure
 ### Мои проекты:
 1. [Тесты на TOOLS QA (demoqa.com)](https://github.com/PDV63-ponomarev/AQA_project_full) 
     - Собрано на [демонстрационном сервере](https://jenkins.autotests.cloud) 
-    - Использованием Selene, Python, Jenkins, Allure.
+    - Используется Selene, Python, Jenkins, Allure.
 2. [Локальные тесты на TOOLS QA (demoqa.com)](https://github.com/PDV63-ponomarev/demosite_local)
     - Тесты скачиваются и запускаются локально на компьютере   
-    - Использованием Selene, Python, Allure.
+    - Используется Selene, Python, Allure.
 
 ---
 
