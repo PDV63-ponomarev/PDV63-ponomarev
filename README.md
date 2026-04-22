@@ -35,8 +35,8 @@ Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure
 2. [Локальные тесты на Selene для TOOLS QA](https://github.com/PDV63-ponomarev/demosite_local)
     - Тесты скачиваются и запускаются локально на компьютере   
     - Используется Selene, Python, Allure.
-3. [Git Actions тесты на Playwright для Demo Web Shop](https://github.com/PDV63-ponomarev/playwright_demo_shop)
-   - Разрабаотываются
+3. [Git Actions тесты на Playwright для Swag Labs](https://github.com/PDV63-ponomarev/playwright_demo_shop)
+   - Разрабатываются
 
 ---
 
