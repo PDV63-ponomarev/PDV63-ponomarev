@@ -36,7 +36,8 @@ Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure
     - Тесты скачиваются и запускаются локально на компьютере   
     - Используется Selene, Python, Allure.
 3. [Git Actions тесты на Playwright для Swag Labs](https://github.com/PDV63-ponomarev/playwright_swag_labs)
-   - Разрабатываются
+   - Тесты запускаются в GitHub Actions и локально на компьютере
+   - Используется Playwright, Python, Allure, Git Actions
 
 ---
 
