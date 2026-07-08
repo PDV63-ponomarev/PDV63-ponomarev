@@ -9,13 +9,13 @@
 ---
 
 ### Мои языки:  
-Python
+Python, Java
 <p align="left">
 <img src="img/python-original.svg" width="40" heigh="40"> 
 </p> 
  
 ### Мои инструменты:  
-Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure 
+Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure, IntelliJ IDEA 
 <p align="left">
 <img src="img/pycharm-original.svg" width="40" heigh="40">
 <img src="img/vscode-original.svg" width="40" heigh="40">
@@ -38,6 +38,11 @@ Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure
 3. [Git Actions тесты на Playwright для Swag Labs](https://github.com/PDV63-ponomarev/playwright_swag_labs)
    - Тесты запускаются в GitHub Actions и локально на компьютере
    - Используется Playwright, Python, Allure, Git Actions
+4 [Локальные тесты на Java Selenium для Swag Labs](https://github.com/PDV63-ponomarev/selenium_java_SwagLabs)
+   - Локально на компьютере
+   - Используется Selenium, Java
+
+
 
 ---
 
