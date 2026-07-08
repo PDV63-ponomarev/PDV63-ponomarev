@@ -37,8 +37,8 @@ Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure, IntelliJ ID
     - Используется Selene, Python, Allure.
 3. [Git Actions тесты на Playwright для Swag Labs](https://github.com/PDV63-ponomarev/playwright_swag_labs)
    - Тесты запускаются в GitHub Actions и локально на компьютере
-   - Используется Playwright, Python, Allure, Git Actions
-4 [Локальные тесты на Java Selenium для Swag Labs](https://github.com/PDV63-ponomarev/selenium_java_SwagLabs)
+   - Используется Playwright, Python, Allure, Git Actions   
+4. [Локальные тесты на Java Selenium для Swag Labs](https://github.com/PDV63-ponomarev/selenium_java_SwagLabs)
    - Локально на компьютере
    - Используется Selenium, Java
 
