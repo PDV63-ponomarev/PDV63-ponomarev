@@ -12,6 +12,7 @@
 Python, Java
 <p align="left">
 <img src="img/python-original.svg" width="40" heigh="40"> 
+<img src="img/java-original.svg" width="40" heigh="40"> 
 </p> 
  
 ### Мои инструменты:  
@@ -24,6 +25,7 @@ Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure, IntelliJ ID
 <img src="img/playwright-original.svg" width="40" heigh="40">
 <img src="img/git-original.svg" width="40" heigh="40">
 <img src="img/allure.png" width="40" heigh="40">
+<img src="img/intellij-original.svg" width="40" heigh="40">
 </p>
 
 ---
