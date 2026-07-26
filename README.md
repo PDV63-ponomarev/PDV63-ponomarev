@@ -1,7 +1,10 @@
 <h1 align="center">Дмитрий</h1>
-<h3 align="center"> QA automation engineer</h3>
+<h3 align="center"> QA automation engineer </h3>
+<h3 align="center">Programmer in Python and Java</h3>
 
-- Я пишу автотесты на  **Python** и **Java**
+
+
+- Я пишу на  **Python** и **Java**
 - Изучаю **искуственный интелект, программирование и 3D**
 - Мое резюме на [**HH**](https://togliatti.hh.ru/resume/78d68355ff0f8de5e00039ed1f5a7753656951)
 - Со мной можно связаться через телеграмм **@PDV63**
