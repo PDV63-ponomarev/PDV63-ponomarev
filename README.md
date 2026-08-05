@@ -32,8 +32,10 @@ Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure, IntelliJ ID
 </p>
 
 ---
+### Мои проекты
+<details>
+ <summary> QA: </summary>
 
-### Мои проекты:
 1. [Jenkins тесты на Selene для TOOLS QA](https://github.com/PDV63-ponomarev/AQA_project_full) 
     - Собрано на [демонстрационном сервере](https://jenkins.autotests.cloud) 
     - Используется Selene, Python, Jenkins, Allure, Selenoid.
@@ -46,8 +48,13 @@ Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure, IntelliJ ID
 4. [Локальные тесты на Java Selenium для Swag Labs](https://github.com/PDV63-ponomarev/selenium_java_SwagLabs)
    - Локально на компьютере
    - Используется Selenium, Java
+</details>
 
+<details>  
+<summary>Учебные:</summary>   
 
+1) [JAVA "Автоматизация бухгалтерии"](https://github.com/PDV63-ponomarev/java_praktikun_project1)
+</details>
 
 ---
 
