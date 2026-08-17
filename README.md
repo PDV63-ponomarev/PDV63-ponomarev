@@ -54,6 +54,7 @@ Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure, IntelliJ ID
 <summary>Учебные:</summary>   
 
 1) [JAVA "Автоматизация бухгалтерии"](https://github.com/PDV63-ponomarev/java_praktikun_project1)
+2) [JAVA "Трекер задач"](https://github.com/PDV63-ponomarev/java_praktikun_project2)
 </details>
 
 ---
