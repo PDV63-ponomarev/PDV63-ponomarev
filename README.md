@@ -56,7 +56,7 @@ Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure, IntelliJ ID
 1) [JAVA "Автоматизация бухгалтерии"](https://github.com/PDV63-ponomarev/java_praktikun_project1)
 2) [JAVA "Трекер задач"](https://github.com/PDV63-ponomarev/java_praktikun_project2)
 3) [JAVA "Трекер задач v2". Рефактор и новый функционал](https://github.com/PDV63-ponomarev/java_praktikun_project3)
-4) [JAVA "Трекер задач v3"]
+4) [JAVA "Трекер задач v3"](https://github.com/PDV63-ponomarev/java_praktikun_project4)
 </details>
 
 ---
