@@ -58,6 +58,8 @@ Pycharm, VSCode, Jenkins, Selenium, Selene, Playwright, Git, Allure, IntelliJ ID
 3) [JAVA "Трекер задач v2". Рефактор и новый функционал](https://github.com/PDV63-ponomarev/java_praktikun_project3)
 4) [JAVA "Трекер задач v3". Доработка HistoryManager](https://github.com/PDV63-ponomarev/java_praktikun_project4)
 5) [JAVA "Трекер задач v4". Сохранение задач в файл](https://github.com/PDV63-ponomarev/java_praktikun_project5)
+6) [JAVA "Трекер задач v5". Добавление продолжительности и тестов](https://github.com/PDV63-ponomarev/java_praktikun_project6)
+
 </details>
 
 ---
